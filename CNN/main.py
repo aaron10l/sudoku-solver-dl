@@ -1,5 +1,5 @@
 def main():
-    print("Hello from sudoku-solver-dl!")
+    print("Hello from cnn!")
 
 
 if __name__ == "__main__":
